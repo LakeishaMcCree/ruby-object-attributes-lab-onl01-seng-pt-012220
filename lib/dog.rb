@@ -32,7 +32,7 @@ class Person
   end
   
   beyonce = Person.new
-  beyonce.singer
+  beyonce.job = "Singer"
 end
   
  
