@@ -27,7 +27,11 @@ class Person
     @name
   end
   
-  def job
+  def job=(singer)
+    @job = singer
+  end
+  
+  
 end
   
  
