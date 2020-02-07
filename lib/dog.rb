@@ -18,6 +18,8 @@ class Dog
   snoopy.breed = "Beagle"
 end
 
+class Person
+  def name 
  
     
   
