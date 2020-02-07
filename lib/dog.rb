@@ -3,5 +3,8 @@ class Dog
     @name= fido
   end
   def name
+    @name
+  end
+end
   
   
