@@ -11,6 +11,7 @@ class Dog
   end
   
   Snoopy = Dog.new
+  snoopy
 end
 
  
