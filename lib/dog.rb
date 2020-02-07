@@ -31,7 +31,7 @@ class Person
     @job = singer
   end
   
-  beyonce = Person.new
+  beyonce = Person.new("Beyonce")
   beyonce.job = "Singer"
   
 end
