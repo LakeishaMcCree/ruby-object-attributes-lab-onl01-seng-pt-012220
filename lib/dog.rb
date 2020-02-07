@@ -28,7 +28,7 @@ class Person
   end
   
   def job=(singer)
-    :@job = singer
+    @job = singer
   end
   
   beyonce = Person.new
