@@ -10,6 +10,10 @@ class Dog
     @breed = beagle
   end
    
+   def breed
+     @breed 
+  end
+  
   snoopy = Dog.new
   snoopy.breed = "Beagle"
 end
