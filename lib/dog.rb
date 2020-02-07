@@ -10,8 +10,8 @@ class Dog
     @breed = beagle
   end
   
-  Snoopy = Dog.new
-  snoopy
+  snoopy = Dog.new
+  snoopy.
 end
 
  
